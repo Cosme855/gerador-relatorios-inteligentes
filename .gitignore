@@ -1,3 +1,28 @@
+# Variáveis de ambiente e credenciais
 .env
+
+# Bytecode e cache Python
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de dados e planilhas
 *.xlsx
+*.xls
+*.csv
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Histórico de terminal e configurações locais
+.bash_history
+.gitconfig
+.lesshst
+.minttyrc
+.python_history
+
+# Configurações de IDEs
+.vscode/
+.idea/

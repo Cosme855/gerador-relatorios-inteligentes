@@ -20,7 +20,7 @@ client = genai.Client(api_key=api_key)
 dados_mercado = {
     "faturamento_total_mes": "R$ 150.000",
     "variacao_faturamento": "-15% em relação ao mês anterior",
-    "produto_com_maior_queda": "Produto X (queda de 35 nas vendas)",
+    "produto_com_maior_queda": "Produto X (queda de 35% nas vendas)",
     "categoria_mais_forte": "Categoria B (crescimento de 5%)",
 }
 
